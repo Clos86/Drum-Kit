@@ -1,4 +1,4 @@
-# Dicee Game
+# Drum Kit
 
 This was a challenge to create a drum kit that when a key is pressed a drum sound is played.
 
